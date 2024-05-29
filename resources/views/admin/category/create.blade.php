@@ -14,7 +14,7 @@
                 <!-- quan-->
             </div>
         </div>
-        <!-- /.container-fluid -->
+        <!-- -->
     </section>
     <!-- Main content -->
     <section class="content">
