@@ -100,7 +100,7 @@
                     'X-CSRF-TOKEN': $('meta[name="_token"]').attr('content')
                 }, success: function (file, response) {
                     $("#image_id").val(response.image_id);
-                    //console.log(response)
+                
                 }
             });
 
