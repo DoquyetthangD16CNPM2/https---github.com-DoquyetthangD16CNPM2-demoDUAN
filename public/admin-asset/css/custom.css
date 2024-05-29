@@ -1,0 +1,33 @@
+.w-4 {
+  width: 1rem;
+}
+.h-4 {
+  height: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+}
+.h-6 {
+  height: 1.5rem;
+}
+
+.dropzone {
+  background: white;
+  border-radius: 5px;
+  border: 2px dashed rgb(0, 135, 247);
+  border-image: none;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.valid-message{
+
+
+        /*display: none;*/
+        width: 100%;
+        margin-top: 0.25rem;
+        font-size: 100%;
+        color: #dc3545;
+    }
+
