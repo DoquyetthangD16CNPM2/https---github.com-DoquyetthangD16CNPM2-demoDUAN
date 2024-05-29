@@ -1,5 +1,5 @@
 @extends('admin.layouts.app')
-<!-- Content Header (Page header) -->
+<!-- Content Header  -->
 @section('content')
     <section class="content-header">
         <div class="container-fluid my-2">
