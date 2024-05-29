@@ -68,7 +68,7 @@
                 </div>
             </form>
         </div>
-        <!-- /.card -->
+        <!---->
     </section>
 @endsection
 {{--<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>--}}
