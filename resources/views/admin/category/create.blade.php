@@ -11,8 +11,7 @@
                 <div class="col-sm-6 text-right">
                     <a href="{{route('categories.list')}}" class="btn btn-primary">Back</a>
                 </div>
-                <!-- quan-->
-                
+                <!-- q-->
             </div>
         </div>
         <!-- /.container-fluid -->
