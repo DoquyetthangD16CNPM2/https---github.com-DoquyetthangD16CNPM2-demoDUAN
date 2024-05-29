@@ -11,7 +11,7 @@
                 <div class="col-sm-6 text-right">
                     <a href="{{route('categories.list')}}" class="btn btn-primary">Back</a>
                 </div>
-                <!--thang -->
+                <!--hieu -->
             </div>
         </div>
         <!-- /.container-fluid -->
