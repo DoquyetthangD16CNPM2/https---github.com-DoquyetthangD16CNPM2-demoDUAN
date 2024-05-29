@@ -1,5 +1,5 @@
 @extends('admin.layouts.app')
-<!-- Content Header  -->
+<!-- Content Header (Page header) -->
 @section('content')
     <section class="content-header">
         <div class="container-fluid my-2">
@@ -11,7 +11,7 @@
                 <div class="col-sm-6 text-right">
                     <a href="{{route('categories.list')}}" class="btn btn-primary">Back</a>
                 </div>
-                <!-- ha-->
+                <!---->
             </div>
         </div>
         <!-- /.container-fluid -->
